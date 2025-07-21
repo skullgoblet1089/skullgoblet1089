@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skullgoblet1089&count_private=true&theme=dark)](https://vercel.com/skullgoblet1089/github-readme-stats/HsBDX1dzVfqBqsTw7aPoZ6gFhqb2)
+
